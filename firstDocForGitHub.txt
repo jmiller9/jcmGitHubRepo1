@@ -1,4 +1,5 @@
 Short sample text to start GitHub repository
-January 27, 2016
+January 29, 2016
 ...
-change date to Jan 29, 2016
+changed date to Jan 29, 2016, (was 27)
+https://github.com/jmiller9/jcmGitHubRepo1.git
